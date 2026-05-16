@@ -4,3 +4,6 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+.agents/
+AGENTS.md
+DESIGN.md
